@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+}
+
+.slide {
+  height: 100%;
+}
+
+.bg-01 {
+  height: 624px;
+  object-fit: cover;
+}
